@@ -1,0 +1,2 @@
+# MiniProject
+This is WEB DEVELOPMENT MINI PROJECTS
